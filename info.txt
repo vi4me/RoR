@@ -1,0 +1,7 @@
+https://ruby-doc.org/stdlib-1.9.3/libdoc/yaml/rdoc/YAML.html
+
+https://ruby-doc.org/stdlib-2.0.0/libdoc/csv/rdoc/CSV.html
+
+https://ruby-doc.org/stdlib-2.0.0/libdoc/webrick/rdoc/WEBrick.html
+
+https://ruby-doc.org/core-2.2.0/Proc.html
