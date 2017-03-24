@@ -1,0 +1,19 @@
+http://rusrails.ru/
+
+https://ruby-doc.org/core-2.2.0/IO.html
+
+https://ruby-doc.org/core-2.2.0/File.html
+
+https://ruby-doc.org/core-2.2.3/Dir.html
+
+https://ruby-doc.org/stdlib-2.4.0/libdoc/net/http/rdoc/Net/HTTP.html
+
+https://ruby-doc.org/stdlib-1.9.3/libdoc/uri/rdoc/URI.html
+
+http://ruby-doc.org/stdlib-2.0.0/libdoc/json/rdoc/JSON.html
+
+DZ DATA:
+
+https://vk.com/dev/database.getCities
+https://vk.com/dev/api_requests
+https://api.vk.com/method/database.getCities?country_id=2&region_id=1500595
